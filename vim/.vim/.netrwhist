@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/taka0/.tmux/plugins/nord-tmux'
+let g:netrw_dirhist_4='/home/taka0/test'
+let g:netrw_dirhist_3='/usr/share/applications'
+let g:netrw_dirhist_2='/home/taka0/flask_refpull/uploads'
+let g:netrw_dirhist_1='/home/taka0/flask-tutorial/flaskr/__pycache__'
